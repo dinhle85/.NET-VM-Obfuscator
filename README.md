@@ -1,4 +1,4 @@
-# C#-VM-Obfuscator
+# C# VM Obfuscator
 
 Obfuscator For C#, Please Modify these as most methods can be deobfuscated. 
 
